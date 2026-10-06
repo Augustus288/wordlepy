@@ -1,7 +1,7 @@
 # wordlepy
 Basic wordle python game you can play inside your terminal
 
-![demo]
+![demo](demo.png)
 
 ## Build & run
 
